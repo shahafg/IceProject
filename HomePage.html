@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Ice Cream Website</title>
+    <link href="Design.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+        }
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: blueviolet;
+            text-align: center; /* Center the links */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        li {
+            display: inline; /* Display links inline */
+            margin-right: 10px;
+        }
+
+            li a {
+                display: inline-block;
+                color: white;
+                padding: 14px 20px;
+                text-decoration: none;
+                transition: background-color 0.3s ease, color 0.3s ease;
+            }
+
+                li a:hover {
+                    background-color: red;
+                    color: green;
+                }
+
+        .form-container {
+            background-color: #e6f0ff; /* Light blue background color */
+            padding: 20px;
+            border-radius: 10px;
+            width: 300px; /* Adjust width as needed */
+            margin: 20px auto; /* Center the div horizontally and add margin on top */
+        }
+
+        label {
+            display: inline-block;
+            margin-bottom: 10px;
+        }
+
+            label span {
+                color: red; /* Style the asterisk */
+            }
+
+        textarea, input[type="text"] {
+            width: 100%;
+            max-width: 300px; /* Maximum width for the inputs */
+            box-sizing: border-box; /* Ensure padding and border are included in the width */
+            padding: 10px;
+            font-size: 16px;
+            margin-bottom: 10px; /* Add some margin for better spacing */
+        }
+
+        .slideshow-container {
+            position: relative;
+            max-width: 500px;
+            margin: auto;
+        }
+
+        .slides {
+            display: none;
+        }
+
+        .prev, .next {
+            cursor: pointer;
+            position: absolute;
+            top: 50%;
+            width: auto;
+            padding: 16px;
+            margin-top: -22px;
+            color: white;
+            font-weight: bold;
+            font-size: 18px;
+            transition: 0.6s ease;
+            border-radius: 0 3px 3px 0;
+            user-select: none;
+        }
+
+        .next {
+            right: 0;
+            border-radius: 3px 0 0 3px;
+        }
+
+            .prev:hover, .next:hover {
+                background-color: rgba(0, 0, 0, 0.8);
+            }
+
+        .text {
+            color: #f2f2f2;
+            font-size: 15px;
+            padding: 8px 12px;
+            position: absolute;
+            bottom: 8px;
+            width: 100%;
+            text-align: center;
+        }
+
+        .numbertext {
+            color: #f2f2f2;
+            font-size: 12px;
+            padding: 8px 12px;
+            position: absolute;
+            top: 0;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+
+        .dot {
+            cursor: pointer;
+            height: 15px;
+            width: 15px;
+            margin: 0 2px;
+            background-color: #bbb;
+            border-radius: 50%;
+            display: inline-block;
+            transition: background-color 0.6s ease;
+        }
+
+            .active, .dot:hover {
+                background-color: #717171;
+            }
+
+        .fade {
+            -webkit-animation-name: fade;
+            -webkit-animation-duration: 1.5s;
+            animation-name: fade;
+            animation-duration: 1.5s;
+        }
+
+        @-webkit-keyframes fade {
+            from {
+                opacity: .4
+            }
+
+            to {
+                opacity: 1
+            }
+        }
+
+        @keyframes fade {
+            from {
+                opacity: .4
+            }
+
+            to {
+                opacity: 1
+            }
+        }
+        /* Add the animation */
+        @keyframes colorChange {
+            0% {
+                color: red;
+            }
+
+            25% {
+                color: blue;
+            }
+
+            50% {
+                color: green;
+            }
+
+            75% {
+                color: purple;
+            }
+
+            100% {
+                color: red;
+            }
+        }
+
+        h3 {
+            animation: colorChange 10s infinite;
+        }
+
+    </style>
+</head>
+<body>
+    <ul>
+        <li><a href="HomePage.html">Home 🏠</a></li>
+        <li><a href="Menu.html">Menu 📑</a></li>
+        <li><a href="About.html">About 🍧</a></li>
+        <li><a href="Order.html">Order here 🛒</a></li>
+        <li><a href="Locations.html">Locations 📍</a></li>
+        <li><a href="ContactUs.html">ContactUs 📞</a></li>
+    </ul>
+
+    <h1 style="text-align:center">Ice Cream</h1>
+    <h3 style="text-align:center">Guy Shahaf Amir</h3>
+
+    <div class="slideshow-container">
+        <div class="mySlides fade">
+            <div class="numbertext">1 / 4</div>
+            <img src="Cal1.jpg" alt="Cherry Pop">
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">2 / 4</div>
+            <img src="Cal2.jpg" alt="Mint Pop">
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">3 / 4</div>
+            <img src="Mag1.jpg" alt="Traffic Pop">
+        </div>
+        <div class="mySlides fade">
+            <div class="numbertext">4 / 4</div>
+            <img src="SW1.jpg" alt="Melon Pop">
+        </div>
+
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+
+    <br />
+
+
+    <!-- jQuery Link. -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <!-- jQuery hides the span element content. -->
+    <script>
+        $(document).ready(function () {
+            $("video").fadeIn(3000, function () {
+            });
+        });
+    </script>
+
+
+    <div style="text-align:center">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+        <span class="dot" onclick="currentSlide(4)"></span>
+    </div>
+    <span>
+        <!--AMIR - INSERT VIDEO-->
+        <center>
+            <video style="display:none" width="1100" height="600" controls>
+                <source src="John Cena Ice Cream Chinese Meme.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </center>
+    </span>
+    <p style="text-align:center">Ice cream is a delicious frozen dessert enjoyed by people of all ages. Made from dairy products and often combined with fruits, nuts, and other flavors, ice cream comes in a variety of tastes and textures. Whether it's a hot summer day or a cozy winter evening, ice cream is a perfect treat to indulge in. From classic vanilla and chocolate to exotic flavors like matcha and mango, there's an ice cream flavor for everyone to enjoy.</p>
+
+    <!-- Additional photos can be added below this paragraph -->
+    <div class="additional-photos" style="text-align:center">
+        <!-- Add more photos here -->
+    </div>
+
+    <script>
+        let slideIndex = 1;
+        showSlides(slideIndex);
+
+        function plusSlides(n) {
+            showSlides(slideIndex += n);
+        }
+
+        function currentSlide(n) {
+            showSlides(slideIndex = n);
+        }
+
+        function showSlides(n) {
+            let i;
+            let slides = document.getElementsByClassName("mySlides");
+            let dots = document.getElementsByClassName("dot");
+            if (n > slides.length) { slideIndex = 1 }
+            if (n < 1) { slideIndex = slides.length }
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[slideIndex - 1].style.display = "block";
+            dots[slideIndex - 1].className += " active";
+        }
+    </script>
+
+
+
+</body>
+</html>

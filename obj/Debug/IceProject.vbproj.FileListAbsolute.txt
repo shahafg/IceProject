@@ -1,0 +1,441 @@
+C:\Users\User\source\repos\IceProject\IceProject\bin\IceProject.dll.config
+C:\Users\User\source\repos\IceProject\IceProject\bin\IceProject.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\IceProject.pdb
+C:\Users\User\source\repos\IceProject\IceProject\bin\IceProject.xml
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\csc.exe
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\csc.exe.config
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\csc.rsp
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\csi.exe
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\csi.exe.config
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\csi.rsp
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.AppContext.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Console.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Net.Http.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\vbc.exe
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\vbc.exe.config
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\vbc.rsp
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\repos\IceProject\IceProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\repos\IceProject\IceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\IceProject\IceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\IceProject\IceProject\obj\Debug\IceProject.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\IceProject\IceProject\obj\Debug\IceProject.Resources.resources
+C:\Users\User\source\repos\IceProject\IceProject\obj\Debug\IceProject.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\IceProject\IceProject\obj\Debug\IceProject.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IceProject\IceProject\obj\Debug\IceProject.vbproj.CopyComplete
+C:\Users\User\source\repos\IceProject\IceProject\obj\Debug\IceProject.dll
+C:\Users\User\source\repos\IceProject\IceProject\obj\Debug\IceProject.xml
+C:\Users\User\source\repos\IceProject\IceProject\obj\Debug\IceProject.pdb
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\IceProject.dll.config
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\IceProject.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\IceProject.pdb
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\IceProject.xml
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\csc.exe
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\csc.exe.config
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\csc.rsp
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\csi.exe
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\csi.exe.config
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\csi.rsp
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.AppContext.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Console.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Net.Http.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\vbc.exe
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\vbc.exe.config
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\vbc.rsp
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IMOE001\Desktop\IceProject\IceProject\obj\Debug\IceProject.vbproj.AssemblyReference.cache
+C:\Users\IMOE001\Desktop\IceProject\IceProject\obj\Debug\IceProject.Resources.resources
+C:\Users\IMOE001\Desktop\IceProject\IceProject\obj\Debug\IceProject.vbproj.GenerateResource.cache
+C:\Users\IMOE001\Desktop\IceProject\IceProject\obj\Debug\IceProject.vbproj.CoreCompileInputs.cache
+C:\Users\IMOE001\Desktop\IceProject\IceProject\obj\Debug\IceProject.vbproj.Up2Date
+C:\Users\IMOE001\Desktop\IceProject\IceProject\obj\Debug\IceProject.dll
+C:\Users\IMOE001\Desktop\IceProject\IceProject\obj\Debug\IceProject.xml
+C:\Users\IMOE001\Desktop\IceProject\IceProject\obj\Debug\IceProject.pdb
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\IceProject.dll.config
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\IceProject.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\IceProject.pdb
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\IceProject.xml
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\csc.exe
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\csc.exe.config
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\csc.rsp
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\csi.exe
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\csi.exe.config
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\csi.rsp
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.AppContext.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Collections.Immutable.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Console.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Globalization.Calendars.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.IO.Compression.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.IO.FileSystem.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Net.Http.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Net.Sockets.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.ValueTuple.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Xml.XPath.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\vbc.exe
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\vbc.exe.config
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\vbc.rsp
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\VBCSCompiler.exe
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\roslyn\VBCSCompiler.exe.config
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\obj\Debug\IceProject.vbproj.AssemblyReference.cache
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\obj\Debug\IceProject.Resources.resources
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\obj\Debug\IceProject.vbproj.GenerateResource.cache
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\obj\Debug\IceProject.vbproj.CoreCompileInputs.cache
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\obj\Debug\IceProject.vbproj.Up2Date
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\obj\Debug\IceProject.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\obj\Debug\IceProject.xml
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject\IceProject\IceProject\obj\Debug\IceProject.pdb
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\IceProject.dll.config
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\IceProject.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\IceProject.pdb
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\IceProject.xml
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\csc.exe
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\csc.exe.config
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\csc.rsp
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\csi.exe
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\csi.exe.config
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\csi.rsp
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.AppContext.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Collections.Immutable.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Console.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Globalization.Calendars.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.IO.Compression.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.IO.FileSystem.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Net.Http.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Net.Sockets.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.ValueTuple.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Xml.XPath.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\vbc.exe
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\vbc.exe.config
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\vbc.rsp
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\VBCSCompiler.exe
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\roslyn\VBCSCompiler.exe.config
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\obj\Debug\IceProject.vbproj.AssemblyReference.cache
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\obj\Debug\IceProject.Resources.resources
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\obj\Debug\IceProject.vbproj.GenerateResource.cache
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\obj\Debug\IceProject.vbproj.CoreCompileInputs.cache
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\obj\Debug\IceProject.vbproj.Up2Date
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\obj\Debug\IceProject.dll
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\obj\Debug\IceProject.xml
+E:\Users\Amir\Desktop\braude\Fullstack\פרויקט HTML\IceProject - amir\IceProject\IceProject\obj\Debug\IceProject.pdb
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\IceProject.dll.config
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\IceProject.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\IceProject.pdb
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\IceProject.xml
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\csc.exe
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\csi.exe
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\obj\Debug\IceProject.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\obj\Debug\IceProject.Resources.resources
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\obj\Debug\IceProject.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\obj\Debug\IceProject.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\obj\Debug\IceProject.vbproj.CopyComplete
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\obj\Debug\IceProject.dll
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\obj\Debug\IceProject.xml
+C:\Users\User\Desktop\IceProject - amir\IceProject\IceProject\obj\Debug\IceProject.pdb
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\IceProject.dll.config
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\IceProject.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\IceProject.pdb
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\IceProject.xml
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\csc.exe
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\csc.exe.config
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\csc.rsp
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\csi.exe
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\csi.exe.config
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\csi.rsp
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.AppContext.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Collections.Immutable.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Console.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Globalization.Calendars.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.IO.Compression.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.IO.FileSystem.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Net.Http.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Net.Sockets.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.ValueTuple.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Xml.XPath.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\vbc.exe
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\vbc.exe.config
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\vbc.rsp
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\VBCSCompiler.exe
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\roslyn\VBCSCompiler.exe.config
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\obj\Debug\IceProject.vbproj.AssemblyReference.cache
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\obj\Debug\IceProject.Resources.resources
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\obj\Debug\IceProject.vbproj.GenerateResource.cache
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\obj\Debug\IceProject.vbproj.CoreCompileInputs.cache
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\obj\Debug\IceProject.vbproj.Up2Date
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\obj\Debug\IceProject.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\obj\Debug\IceProject.xml
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 2.0\IceProject\IceProject\obj\Debug\IceProject.pdb
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\IceProject.dll.config
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\IceProject.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\IceProject.pdb
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\IceProject.xml
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\csc.exe
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\csc.exe.config
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\csc.rsp
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\csi.exe
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\csi.exe.config
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\csi.rsp
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.AppContext.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Collections.Immutable.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Console.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Globalization.Calendars.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.IO.Compression.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.IO.FileSystem.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Net.Http.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Net.Sockets.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.ValueTuple.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Xml.XPath.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\vbc.exe
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\vbc.exe.config
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\vbc.rsp
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\VBCSCompiler.exe
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\roslyn\VBCSCompiler.exe.config
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\obj\Debug\IceProject.vbproj.AssemblyReference.cache
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\obj\Debug\IceProject.Resources.resources
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\obj\Debug\IceProject.vbproj.GenerateResource.cache
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\obj\Debug\IceProject.vbproj.CoreCompileInputs.cache
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\obj\Debug\IceProject.vbproj.Up2Date
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\obj\Debug\IceProject.dll
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\obj\Debug\IceProject.xml
+E:\Users\Amir\Desktop\braude\Fullstack\projct amir gai shahaf\IceProject - amir 3.0\IceProject\IceProject\obj\Debug\IceProject.pdb

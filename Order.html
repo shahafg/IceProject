@@ -1,0 +1,144 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Example</title>
+    <link href="Design.css" rel="stylesheet" />
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: blueviolet;
+        }
+
+        li {
+            float: left;
+        }
+
+            li a {
+                display: block;
+                color: white;
+                padding: 14px 16px;
+                text-decoration: none;
+            }
+
+                li a:hover {
+                    background-color: red;
+                    color: green;
+                }
+
+        .form-container {
+            background-color: #e6f0ff;
+            /* Light blue background color */
+            padding: 20px;
+            border-radius: 10px;
+            width: 300px;
+            /* Adjust width as needed */
+            margin: 20px auto;
+            /* Center the div horizontally and add margin on top */
+        }
+
+        label {
+            display: inline-block;
+            margin-bottom: 10px;
+        }
+
+            label span {
+                color: red;
+                /* Style the asterisk */
+            }
+
+        textarea,
+        input[type="text"],
+        input[type="tel"],
+        select,
+        button {
+            width: 100%;
+            max-width: 300px;
+            /* Maximum width for the inputs */
+            box-sizing: border-box;
+            /* Ensure padding and border are included in the width */
+            padding: 10px;
+            font-size: 16px;
+            margin-bottom: 10px;
+            /* Add some margin for better spacing */
+        }
+    </style>
+</head>
+<body>
+    <ul>
+        <li><a href="HomePage.html">Home 🏠</a></li>
+        <li><a href="Menu.html">Menu 📑</a></li>
+        <li><a href="About.html">About 🍧</a></li>
+        <li><a href="Order.html">Order here 🛒</a></li>
+        <li><a href="Locations.html">Locations 📍</a></li>
+        <li><a href="ContactUs.html">ContactUs 📞</a></li>
+    </ul>
+
+    <div class="form-container">
+        <h2>Shipping Information</h2>
+        <!-- AMIR - Form with onsubmit attribute to call submitform() function -->
+        <form action="YourServerScriptHere" method="post" onsubmit="return submitform()">
+            <label for="name">Name: <span>*</span></label><br>
+            <input type="text" id="name" name="name" required><br>
+            <label for="address">Address:<span>*</span></label><br>
+            <textarea id="address" name="address" rows="4" cols="50" required></textarea><br>
+            <!-- AMIR drop down menu for choosing branch -->
+            <p>Please Choose a location to order from: </p>
+            <select id="location" name="location" required>
+                <option value="none">None</option>
+                <option value="ramat Yishai">Ramat Yishai</option>
+                <option value="yokneam">Yokneam</option>
+                <option value="nofit">Nofit</option>
+            </select>
+            <br><br>
+            <label for="telephone">Telephone: <span>*</span></label><br>
+            <!-- Here we check that the Telephone has 10 digits exactly -->
+            <!-- AMIR - CHANGE PATTERN TO {10}-->
+            <input type="tel" id="telephone" name="telephone" minlength="10" maxlength="10" required pattern="[0-9]{10}"><br>
+            <br>
+            <!-- AMIR - Send button -->
+            <button type="button" onclick="validateForm()">Send</button>
+            <script>
+                function submitform() {
+                    // AMIR - Confirmation dialog
+                    if (confirm("Are you sure you want to submit?")) {
+                        document.getElementById("demo").innerHTML = "Thank you!";
+                        return true; // Allow form submission
+                    } else {
+                        document.getElementById("demo").innerHTML = "";
+                        return false; // Prevent form submission
+                    }
+                }
+
+                function validateForm() {
+                    var name = document.getElementById("name").value;
+                    var address = document.getElementById("address").value;
+                    var location = document.getElementById("location").value;
+                    var telephone = document.getElementById("telephone").value;
+
+                    if (name == "" || address == "" || location == "none" || telephone == "") {
+                        document.getElementById("demo").innerHTML = "Please fill out all fields.";
+                    } else {
+                        if (submitform()) {
+                            document.location = 'OnSubmit.html';
+                        }
+                    }
+                }
+            </script>
+        </form>
+        <p id="demo"></p>
+
+        <br><br><br>
+        <button onclick="document.location='HomePage.html'">Back to HomePage</button>
+    </div>
+</body>
+</html>

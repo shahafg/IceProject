@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <!-- jQuery Link. -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <!-- jQuery hides the span element content. -->
+    <script>
+        $(document).ready(function () {
+            $("span").click(function () {
+                $(this).hide();
+            });
+        });
+    </script>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="Design.css" rel="stylesheet" />
+    <style>
+
+
+
+        div {
+            background-color: yellow;
+            background-image: src('IceCreamWall.png');
+        }
+
+        span {
+            color: darkorange;
+        }
+    </style>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <ul>
+        <li><a href="HomePage.html">Home 🏠</a></li>
+        <li><a href="Menu.html">Menu 📑</a></li>
+        <li><a href="About.html">About 🍧</a></li>
+        <li><a href="Order.html">Order here 🛒</a></li>
+        <li><a href="Locations.html">Locations 📍</a></li>
+        <li><a href="ContactUs.html">ContactUs 📞</a></li>
+    </ul>
+    <br /><br />
+
+    <div>
+        <img src="LAmnon.jpg" width="100" , height="130" /> <br />
+        The Amnon company, offers a delightful selection of pre-packaged ice creams that suit to all taste preferences.
+        Our marketing strategy focuses on highlighting their commitment to quality of our products.
+
+
+    </div>
+
+    <br />
+    <span>
+        Click here to hide the ice creams from the sun ☀
+        <br />
+        <img src="Mag1.jpg" />
+        <img src="Mag1.jpg" />
+
+    </span>
+    <img src="SunRBG.png" width="220" , height="250" />
+    <p id="Brands"></p>
+    <img src="IceCreamWall.png" width="400" , height="250" />
+    <!-- .join helps us to create a seperation between items in the arry. -->
+    <script>
+        const SuppBrands = ["Magnum", "Ben & Jerry's", "Häagen-Dazs", "Gelato Italia, Nestlé"];
+        document.getElementById("Brands").innerHTML = SuppBrands;
+
+
+        document.getElementById("Brands").innerHTML = SuppBrands.join(", ");
+
+    </script>
+
+    <span>
+        <!--AMIR - INSERT VIDEO-->
+        <center>
+            <video style="display:none" width="1100" height="600" controls>
+                <source src="John Cena Ice Cream Chinese Meme.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </center>
+    </span>
+
+
+
+
+
+
+</body>
+</html>

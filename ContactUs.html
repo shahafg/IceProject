@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact us</title>
+    <link href="Design.css" rel="stylesheet" />
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: blueviolet;
+        }
+
+        li {
+            float: left;
+        }
+
+            li a {
+                display: block;
+                color: white;
+                padding: 14px 16px;
+                text-decoration: none;
+            }
+
+                li a:hover {
+                    background-color: red;
+                    color: green;
+                }
+
+        .form-container {
+            background-color: #e6f0ff; /* Light blue background color */
+            padding: 20px;
+            border-radius: 10px;
+            width: 300px; /* Adjust width as needed */
+            margin: 20px auto; /* Center the div horizontally and add margin on top */
+        }
+
+        label {
+            display: inline-block;
+            margin-bottom: 10px;
+        }
+
+            label span {
+                color: red; /* Style the asterisk */
+            }
+
+        textarea, input[type="text"] {
+            width: 100%;
+            max-width: 300px; /* Maximum width for the inputs */
+            box-sizing: border-box; /* Ensure padding and border are included in the width */
+            padding: 10px;
+            font-size: 16px;
+            margin-bottom: 10px; /* Add some margin for better spacing */
+        }
+    </style>
+</head>
+<body>
+    <ul>
+        <li><a href="HomePage.html">Home 🏠</a></li>
+        <li><a href="Menu.html">Menu 📑</a></li>
+        <li><a href="About.html">About 🍧</a></li>
+        <li><a href="Order.html">Order here 🛒</a></li>
+        <li><a href="Locations.html">Locations 📍</a></li>
+        <li><a href="ContactUs.html">ContactUs 📞</a></li>
+    </ul>
+
+    <div class="form-container">
+        <h2>We would love to hear from you</h2>
+        <form action="#" method="post">
+            <label for="name">Name: <span>*</span></label><br>
+            <input type="text" id="name" name="name" required><br>
+
+            <label for="telephone">Telephone: <span>*</span></label><br>
+            <input type="tel" id="telephone" name="telephone" minlength="10" maxlength="10" required pattern="[0-9]{10}"/> <br>
+            <br>
+            <label for="Email">Email: <span>*</span></label><br>
+            <!-- The pattern is the rule to use the @-->
+            <input type="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" />
+
+            <br />  <br /><input type="submit" value="Submit">
+        </form>
+
+        <!-- AMIR MAKE ON EVERY PAGE BUTTON FOR HOMEPAGE-->
+        <br /> <br /> <br />
+        <button onclick="document.location='HomePage.html'">Back to HomePage</button>
+
+
+    </div>
+
+</body>
+</html>

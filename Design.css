@@ -1,0 +1,31 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: blueviolet;
+}
+
+li {
+    float: left;
+}
+
+    li a {
+        display: block;
+        color: white;
+        padding: 14px 16px;
+        text-decoration: none;
+        margin-left: 90px;
+        transition: background-color 0.3s ease, color 0.3s ease;
+    }
+        /* AMIR CHANGE THE COLOR HOVER TO GREEN */
+        li a:hover {
+            background-color: powderblue;
+            color: green;
+        }
+

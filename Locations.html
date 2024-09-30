@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Locations</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: blueviolet;
+        }
+
+        li {
+            float: left;
+            margin-right: 10px;
+        }
+
+            li a {
+                display: block;
+                color: white;
+                padding: 14px 16px;
+                text-decoration: none;
+            }
+
+                li a:hover {
+                    background-color: red;
+                    color: green;
+                }
+
+        .locations-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            text-align: left;
+        }
+
+            .locations-table th, .locations-table td {
+                border: 1px solid black;
+                padding: 10px;
+                text-align: left;
+            }
+
+            .locations-table th {
+                background-color: #f2f2f2;
+            }
+    </style>
+</head>
+<body>
+    <ul>
+        <li><a href="HomePage.html">Home 🏠</a></li>
+        <li><a href="Menu.html">Menu 📑</a></li>
+        <li><a href="About.html">About 🍧</a></li>
+        <li><a href="Order.html">Order here 🛒</a></li>
+        <li><a href="Locations.html">Locations 📍</a></li>
+        <li><a href="ContactUs.html">ContactUs 📞</a></li>
+    </ul>
+
+    <h2 style="text-align:center">Our Locations</h2>
+    <table class="locations-table">
+        <tr>
+            <th>City</th>
+            <th>Address</th>
+            <th>Phone Number</th>
+        </tr>
+        <tr>
+            <td>Ramat Yishai</td>
+            <td>5 HaDekel St</td>
+            <td>09-345-6789</td>
+        </tr>
+        <tr>
+            <td>Yokneam</td>
+            <td>8 HaAtzmaut St</td>
+            <td>03-567-8910</td>
+        </tr>
+        <tr>
+            <td>Nofit</td>
+            <td>30 HaGalil St</td>
+            <td>04-678-2345</td>
+        </tr>
+    </table>
+
+    <br /> <br /> <br />
+    <button onclick="document.location='HomePage.html'">Back to HomePage</button>
+
+</body>
+</html>
